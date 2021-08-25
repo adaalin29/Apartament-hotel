@@ -1,0 +1,1346 @@
+@media only screen and (max-width: 1920px) {
+
+
+}
+
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width: 1366px) {
+
+  /* ************************************ */
+  .awards-container{
+    width: 49%;
+}
+
+  /* ********************************** */
+
+
+
+  .container_text_swiper{
+    padding-top: 50px;
+  }
+  .prezentare_swiper{
+    height: 500px;
+  }
+  .container-despre {
+    height: 600px;
+  }
+  .gallery-item {
+    margin-bottom: 18px;
+  }
+  .map_popup{
+    width:45%;
+  }
+  #copywrite{
+    padding-top: 17%;
+  }
+  .footer_left{
+    width:30%;
+  }
+  .footer_center{
+    width:30%;
+  }
+  .footer_right{
+    width:30%;
+  }
+  .container_text_prezentare {
+    width: 59%;
+    margin-top:0; 
+    margin-right: 50px;
+}
+.banner {
+    width: 100%;
+    height: 80vh;
+}
+.titlu-apartamente {
+    font-size: 45px;
+}
+.titlu-prezentare {
+    font-size: 45px;
+}
+.container{
+  width:1024px;
+}
+
+
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+
+  /* ***************************** */
+  .background-gri {
+    height: 1250px;
+  }
+  .awards-container {
+    width: 63%;
+  }
+
+  /* *************************** */
+  .second_element_row_mesaj {
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 105%;
+  }
+  .second_row_mesaj {
+    width: 83%;
+    margin: 0 auto;
+    height: 25%;
+  }
+  .container_text_swiper {
+    padding-left: 60px;
+    width: 50%;
+    height: 300px;
+}
+  .room_swiper {
+    height: 300px;
+  }
+  .container_text_swiper {
+    width: 100%;
+  }
+  .container_poza_swiper {
+    width: 100%;
+  }
+  .container_centru_swiper{
+    flex-direction: column-reverse;
+  }
+  .imagine-dimensiuni{
+    width: 98px;
+    height: 98px;
+  }
+  .swiper_elemente{
+    display: block;
+    height: 200px;
+    margin-top: 20px;
+  }
+  .element-beneficii{
+    width:100%;
+  }
+  .beneficii{
+    display: none;
+  }
+  .container_poza{
+    width:70%;
+  }
+  .container{
+    width:768px;
+  }
+  .container_text_prezentare{
+    margin:0 auto;
+    margin-bottom: 40px;
+  }
+  .afla-mai-multe {
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+  .descriere-apartament{
+    text-align: center;
+    width:100%;
+  }
+  .titlu-apartamente{
+    text-align: center;
+  }
+  .despre-noi{
+    text-align: center;
+  }
+  .container_despre_noi_child {
+    flex-direction: column;
+  }
+  .container-despre {
+    height: 1050px;
+  }
+  .mobile_copy{
+    display: block;
+    width:100%;
+  }
+  .container_footer{
+    flex-direction: column;
+    
+  }
+  .footer_center{
+    width:100%;
+  }
+  #apartamente-footer, #termeni-conditii, #politica-cookies, #politica-confidentialitate{
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .footer_left{
+    width:100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  #copywrite, #informatii-footer{
+    display: none;
+  }
+  .footer_right{
+    display: none;
+  }
+  #drepturi{
+    display: none;
+  }
+  .form_names{
+    display: none;
+  }
+  .container_formular_contact{
+    height: 100%;
+    padding: 30px;
+  }
+  .second_row {
+    flex-direction: column;
+    width:90%;
+    justify-content: initial;
+    height: auto;
+    padding-right:initial;
+    padding-bottom:initial;
+  }
+  .second_element_row{
+    width:100%;
+    margin:0 auto;
+    margin-bottom:20px;
+  }
+.form_input_mesaj {
+    border-radius: 0;
+    width: 100%;
+    height: 115px;
+    font-family: "OpenSans-Regular";
+    color: #505050;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom:0;
+    resize: none;
+    margin-top: 20px;
+}
+.banner_content{display:none;}
+
+
+.third_row {
+   position: initial;
+    border-color: #707070;
+    width: 100%;
+    height:initial;
+    display: flex;
+    margin: 0 auto;
+    padding-left: initial;
+    padding-right:initial;
+    align-items:initial;
+    margin-top: 20px;
+}
+
+
+select.form_input {
+    color: #aeaeae;
+}
+
+.form_input::placeholder {
+    color: #aeaeae;
+}
+
+.first_row {
+    flex-direction: column;
+    height: 10%;
+    width: 90%;
+    justify-content: initial;
+    padding-right:initial;
+    padding-bottom:initial;
+}
+  .first_element_row {
+    width:100%;
+    margin:0 auto;
+    height:initial;
+    margin-bottom:20px;
+
+}
+
+.buton_index{font-size:15px;}
+.buton-afla {
+    font-size: 15px;}
+.scris-city-center {
+    font-size: 15px;
+    margin-bottom: 0px;
+  }
+.descriere-apartament {
+    font-size: 15px;}
+
+   .cerere_formular {
+    font-size: 16px;
+    padding: 7px 10px;
+    position: initial; 
+     bottom:initial;
+     right: initial;
+         margin: 0 auto;
+}
+
+
+.nume_camp{font-size:12px;}
+.nume_camp_mesaj{font-size:12px;}
+.detaliu-element{font-size: 12px;}
+.titlu_banner {
+    font-size: 40px;}
+.subtitlu_banner {
+    font-size: 15px;}
+.titlu-apartamente {
+    font-size: 37px;
+}
+.titlu-prezentare {
+    font-size: 37px;
+}
+
+.swiper-pagination-index {
+  left: 80%!important;
+  bottom: 4%!important;
+}
+.text-beneficii {
+    font-size: 16px;
+}
+.prezentare_swiper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 21px 15px;
+    position: relative;
+    width: 90%;
+    height: 65%;
+}
+.detalii{
+  display: none;
+}
+.container_despre_noi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 21px 15px;
+    position: relative;
+    width: 90%;
+    margin-bottom: 50px;
+}
+.container_formular_desktop_child {
+    margin: 0 auto;
+    width: 80%;
+    margin-top: -24vh;
+    height: 100%;
+}
+.container-beneficii {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    width: 90%;
+}
+
+
+.squares-contact {
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    width: 100%;
+}
+#apartament-hotel {
+    font-size: 20px;}
+
+
+#copywrite{
+    font-size:12px;
+}
+
+#drepturi{
+    font-size:12px;
+}
+
+
+
+#informatii-footer
+{
+font-size:15px;
+}
+
+#apartamente-footer
+{
+    font-size:12px;
+}
+
+
+#termeni-conditii
+{
+    font-size:12px;
+
+}
+
+
+#politica-cookies
+{
+    font-size:12px;
+    font-family:"OpenSans-Light";
+    color:#FFFFFF;
+
+}
+
+
+#politica-confidentialitate
+{
+    font-size:12px;
+}
+
+
+
+#contact
+{
+ font-size:15px;
+}
+
+
+#telefon
+{
+    font-size:12px;
+   
+}
+
+#program
+{
+    font-size:12px;
+
+}
+
+#adrese
+{
+    font-size:12px;  
+}
+.titlu-galerie {
+    font-size: 37px;}
+.text_apartamente {
+    font-size: 15px;}
+.ap_swi_title {
+    font-size: 35px;}
+.apartamente_swiper_container a {
+    font-size: 10px;}
+.apartamente_swiper_container ul li {
+    font-size: 10px;}
+.conditii {
+    font-size: 15px;}
+
+
+
+
+
+}
+
+/* Small Devices, Tablets */
+
+@media only screen and (max-width: 768px) {
+  /* *********************************** */
+
+  .container_text_swiper {
+    width: 100%;
+    height: 400px;
+}
+
+  .awards-container {
+    width: 100%;
+}
+  .background-gri {
+    height: 1600px;
+  }
+  .award-image{
+    margin-bottom: 20px;
+  }
+
+  .awards-container {
+    flex-direction: column;
+}
+
+  /* ************************************ */
+  .imagine-dimensiuni{
+    width: 78px;
+    height: 78px;
+  }
+  .container-despre {
+    height: 850px;
+  }
+  .container{
+    width:480px;
+  }
+  .container_text_prezentare{
+    margin-bottom: 80px;
+  }
+.banner_content{display:none;}
+  .gallery-item {
+    width: 100%;
+  }
+  .titlu-galerie {
+    font-size: 30px;
+  }
+  .poza-square {
+    width: 88%;
+    height: 328px;
+    margin-top: 37px;
+  }
+  .container_poza {
+    width: 88%;
+  }
+  .container_despre_noi {
+    padding-left: 0;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    
+}
+.container_despre_noi_child {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 21px 15px;
+    position: relative;
+    width: 100%;
+}
+
+  .despre-noi {
+    text-align: center;
+    font-size:15px;
+  }
+ .vezi-apartamentele {
+    padding-top: 40px;
+}
+  .descriere-apartament {
+    text-align: center;
+    font-size: 13px;
+    width: 70%;
+    margin-bottom: 30px;
+    margin:0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .titlu-apartamente {
+    text-align: center;
+        font-size: 30px;
+  }
+  .titlu-prezentare {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+  .text-beneficii {
+    font-size: 14px;
+}
+  .centru {
+    flex-direction: column-reverse;
+    width: 100%;
+    height: 100%;
+  }
+.container_text_prezentare {
+    width: 100%;
+    margin-top:0px;
+    margin-right:0px;
+   
+}
+.subtitlu-prezentare {
+    font-size: 15px;
+  }
+
+
+.city-center-river {
+   padding-left:0;
+    font-size: 24px;
+    padding-top: 30px;
+}
+ 
+ .buton-exploreaza {
+    left: -23px;
+    font-size: 15px;
+    top: -80px;
+    padding: 8px 8px;
+}
+  .prezentare-swiper-bullets {
+    left: 20%!important;
+  }
+  .footer-mobile {
+    display: block;
+  }
+  .apartamente_hotel_mobile {
+    padding-top: 28px;
+    font-size:16px;
+  }
+  .apartamente_mobile {
+    padding-top: 30px;
+    font-size:12px;
+  }
+  .termeni_conditii_mobile{
+    font-size:12px;
+  }
+  .politica_cookies_mobile{
+    font-size:12px;
+  }
+  .politica_confidentialitate_mobile{
+    font-size:12px;
+  }
+  .copywrite_mobile {
+    padding-top: 30px;
+    font-size:12px;
+  }
+  .drepturi_mobile {
+    padding-bottom: 30px;
+    font-size:12px;
+  }
+  .banner {
+    height: 34vh;
+  }
+  .patrat-galben1 {
+    width: 93%;
+    height: 70%;
+    top: 30px;
+  }
+  .patrat-galben2 {
+    border: 1px solid #DDB85E;
+    margin-left: -25px;
+    margin-top: 18px;
+  }
+  header#header {
+    padding: 50px 10px;
+  }
+  .menu .svg {
+    margin: 6px;
+    width: 9px;
+  }
+  .menu .scrismeniu {
+    color: #DDB85E;
+    margin: 1px;
+    font-size: 18px;
+    font-family: "OpenSans-SemiBold";
+    margin-bottom: 58px;
+  }
+  .imgwidth {
+    width: 70%;
+    margin-left: 25px;
+  }
+  
+  img {
+    border: 0;
+    width: 13px;
+  }
+  .subtitlu_banner {
+    font-size: 10px;
+  }
+  .swiper_mobile {
+    display: block;
+    /* margin-top: 14px; */
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 20px;
+}
+  
+  .cerere_formular_mobile {
+    font-family: "OpenSans-SemiBold";
+    font-size: 15px;
+    padding: 12px 30px;
+  }
+
+  .scris-contact {
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 2px;
+  }
+  .yellow-square1 {
+    display: none;
+  }
+  .yellow-square2 {
+    display: none;
+  }
+  .container_harta {
+    padding: 0;
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 30px;
+  }
+  .squares-contact {
+    width: 100%;
+    margin-bottom: 0;
+    height: 250px;
+  }
+.swiper-wrapper{
+  height: 250px;
+}
+
+  .map_overlay {
+    display: none;
+  }
+  .meniu {
+    z-index: 99;
+    width: 100%;
+  }
+  .galerie-background {
+    width: 100%;
+    height: 20vh;
+  }
+  .logo {
+    width: 130px;
+  }
+  .imgwidth {
+    object-fit: contain;
+    margin-left: 0;
+    width: 90%;
+  }
+  .headar_social_container {
+    margin-bottom: 0px;
+  }
+  .menu .scrismeniu {
+    margin-bottom: 0px;
+  }
+  header#header {
+    padding: 25px 15px;
+  }
+  #map {
+    height: 250px;
+  }
+  .apartamente_swiper_container {
+    height: 250px;
+}
+  .container_apartamente {
+    width: 90%;
+    margin-bottom: 15px;
+  }
+  .apartamente_swiper_container ul {
+    display: none;
+  }
+  .apartamente_swiper_container a {
+    margin-top: 10px;
+    padding: 8px 15px;
+  }
+  .ap_swi_title {
+    font-size: 20px;
+  }
+  .swiper-pagination>.swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+  }
+.swiper-container-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic 
+{
+    bottom: 33px;
+}
+.form_input_mesaj{
+  width:100%;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+    width: 100%;
+}
+
+  .text_apartamente {
+    line-height: unset;
+    width: 80%;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+  }
+  .mobile_scroll {
+    overflow-x: auto;
+  }
+  .gallery-categories {
+    width: 200%;
+  }
+  .gallery-categories .gallery-parent {
+    width: 30%;
+  }
+  /* width */
+  .mobile_scroll::-webkit-scrollbar {
+    width: 0px;
+  }
+  /* Track */
+  .mobile_scroll::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  /* Handle */
+  .mobile_scroll::-webkit-scrollbar-thumb {
+    background: transparent;
+  }
+  /* Handle on hover */
+  .mobile_scroll::-webkit-scrollbar-thumb:hover {
+    background: transparent;
+  }
+  .gallery-category {
+    font-size: 15px;
+  }
+  .linie-gri {
+    width: 45%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+
+.scris-termeni-conditii {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+  .conditii {
+    margin: 0 auto;
+    font-family: "OpenSans-Light";
+    font-size: 14px;
+    line-height: unset;    
+  }
+.scris-city-center {
+   
+    padding-left:0px;
+    width: 90%;
+    font-size: 13px;
+    line-height: 180%;
+}
+
+.swiper-pagination-index {
+    left: 87%!important;
+    bottom: 6%!important;
+}
+
+.afla-mai-multe
+{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.buton_index {
+    border: solid 1px #DDB85E;
+    color: #DDB85E;
+    text-align: center;
+    font-size: 15px;
+    font-family: "OpenSans-Regular";
+    text-transform: uppercase;
+    padding: 8px 8px;
+    margin-left:0;
+}
+
+.buton-afla{
+    font-size: 15px;
+    padding: 8px 27px;
+}
+.text_despre_noi {
+    width: 100%;}
+
+
+.prezentare_swiper {
+    width: 100%;
+    height: 100%;
+}
+.container_centru_swiper {
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content: space-between;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.container_poza_swiper {
+    width: 100%;
+    height: 100%;
+    padding-left: 0;
+}
+
+
+
+}
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (max-width: 480px) {
+
+  /* *********************************** */
+
+  .background-gri {
+    height: 1800px;
+}
+
+  .container_text_swiper {
+    width: 100%;
+    height: 480px;
+}
+
+  /* ************************************* */
+  .swiper_elemente {
+    height: 175px;
+  }
+  .container{
+    width:100%;
+  }
+  .container_footer{
+    width:100%;
+  }
+
+.banner_content{display:none;}
+
+  .gallery-item {
+    width: 100%;
+  }
+  .container {
+    width: 100%;
+  }
+  .titlu-galerie {
+    font-size: 30px;
+  }
+  .poza-square {
+    width: 88%;
+    height: 328px;
+    margin-top: 37px;
+  }
+  .container_poza {
+    width: 88%;
+  }
+  .container_despre_noi {
+    padding-left: 0;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    
+}
+.container_despre_noi_child {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 21px 15px;
+    position: relative;
+    width: 100%;
+}
+
+  .despre-noi {
+    text-align: center;
+  }
+ .vezi-apartamentele {
+    padding-top: 40px;
+}
+  .descriere-apartament {
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .titlu-apartamente {
+    text-align: center;
+  }
+  .titlu-prezentare {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+  .centru {
+    flex-direction: column-reverse;
+    width: 100%;
+    height: 100%;
+  }
+.container_text_prezentare {
+    width: 100%;
+    margin-top:0px;
+    margin-right:0px;
+   
+}
+
+.container_poza {
+    width: 90%;
+    margin: 0 auto;
+    height: 250px;
+}
+.city-center-river {
+    padding-left:0;
+    font-size: 24px;
+    padding-top: 20px;
+}
+ 
+ .buton-exploreaza {
+    left: -23px;
+    font-size: 15px;
+    top: -80px;
+    padding: 8px 8px;
+}
+  .prezentare-swiper-bullets {
+    left: 20%!important;
+  }
+  .footer-mobile {
+    display: block;
+  }
+  .apartamente_hotel_mobile {
+    padding-top: 28px;
+    font-size:16px;
+  }
+  .apartamente_mobile {
+    padding-top: 30px;
+    font-size:12px;
+  }
+  .termeni_conditii_mobile{
+    font-size:12px;
+  }
+  .politica_cookies_mobile{
+    font-size:12px;
+  }
+  .politica_confidentialitate_mobile{
+    font-size:12px;
+  }
+  .copywrite_mobile {
+    padding-top: 30px;
+    font-size:12px;
+  }
+  .drepturi_mobile {
+    padding-bottom: 30px;
+    font-size:12px;
+  }
+  .banner {
+    height: 34vh;
+  }
+  .patrat-galben1 {
+    width: 93%;
+    height: 70%;
+    top: 30px;
+  }
+  .patrat-galben2 {
+    border: 1px solid #DDB85E;
+    margin-left: -25px;
+    margin-top: 18px;
+  }
+  header#header {
+    padding: 50px 10px;
+  }
+  .menu .svg {
+    margin: 6px;
+    width: 9px;
+  }
+  .menu .scrismeniu {
+    color: #DDB85E;
+    margin: 1px;
+    font-size: 18px;
+    font-family: "OpenSans-SemiBold";
+    margin-bottom: 58px;
+  }
+  .imgwidth {
+    width: 70%;
+    margin-left: 25px;
+  }
+  
+  img {
+    border: 0;
+    width: 13px;
+  }
+  .subtitlu_banner {
+    font-size: 10px;
+  }
+  .swiper_mobile {
+    display: block;
+    margin-top: 50px;
+  }
+  .container_poza {
+    width: 85%;
+    margin: 0 auto;
+    height: 250px;
+  }
+ .cerere_formular_mobile {
+    font-family: "OpenSans-SemiBold";
+    font-size: 15px;
+    padding: 10px 25px;
+}
+.meniu ul li a {
+    font-size: 15px;}
+  .scris-contact {
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 2px;
+  }
+  .yellow-square1 {
+    display: none;
+  }
+  .yellow-square2 {
+    display: none;
+  }
+  .container_harta {
+    padding: 0;
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 30px;
+  }
+  .squares-contact {
+    width: 100%;
+    margin-bottom: 0;
+    height: 250px;
+  }
+.swiper-wrapper{
+  height: 250px;
+}
+
+  .map_overlay {
+    display: none;
+  }
+  .meniu {
+    z-index: 99;
+    width: 100%;
+  }
+  .galerie-background {
+    width: 100%;
+    height: 20vh;
+  }
+  .logo {
+    width: 130px;
+  }
+  .imgwidth {
+    object-fit: contain;
+    margin-left: 0;
+    width: 90%;
+  }
+  .headar_social_container {
+    margin-bottom: 0px;
+  }
+  .menu .scrismeniu {
+    margin-bottom: 0px;
+  }
+  header#header {
+    padding: 25px 15px;
+  }
+  #map {
+    height: 250px;
+  }
+  .apartamente_swiper_container {
+    height: 250px;
+}
+  .container_apartamente {
+    width: 90%;
+    margin-bottom: 15px;
+  }
+  .apartamente_swiper_container ul {
+    display: none;
+  }
+  .apartamente_swiper_container a {
+    margin-top: 10px;
+    padding: 8px 15px;
+  }
+  .ap_swi_title {
+    font-size: 20px;
+    text-align: center;
+  }
+  .swiper-pagination>.swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+  }
+.swiper-container-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic 
+{
+    bottom: 40px;
+}
+.form_input_mesaj{
+  width:100%;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+    width: 100%;
+}
+
+  .text_apartamente {
+    line-height: unset;
+    width: 80%;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+  }
+  .mobile_scroll {
+    overflow-x: auto;
+  }
+  .gallery-categories {
+    width: 200%;
+  }
+  .gallery-categories .gallery-parent {
+    width: 30%;
+  }
+  /* width */
+  .mobile_scroll::-webkit-scrollbar {
+    width: 0px;
+  }
+  /* Track */
+  .mobile_scroll::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  /* Handle */
+  .mobile_scroll::-webkit-scrollbar-thumb {
+    background: transparent;
+  }
+  /* Handle on hover */
+  .mobile_scroll::-webkit-scrollbar-thumb:hover {
+    background: transparent;
+  }
+  .gallery-category {
+    font-size: 15px;
+  }
+  .linie-gri {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+
+.scris-termeni-conditii {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+  .conditii {
+    margin: 0 auto;
+    font-family: "OpenSans-Light";
+    font-size: 14px;
+    line-height: unset;    
+  }
+
+.afla-mai-multe
+{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.buton_index {
+    border: solid 1px #DDB85E;
+    color: #DDB85E;
+    text-align: center;
+    font-size: 15px;
+    font-family: "OpenSans-Regular";
+    text-transform: uppercase;
+    padding: 8px 8px;
+    margin-left:0;
+}
+.buton {
+    width: 100%;
+    padding-top:0px;
+}
+.text_despre_noi {
+    width: 100%;}
+
+
+.prezentare_swiper {
+    margin: 0 auto;
+    padding: 21px 15px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.container_centru_swiper {
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content: space-between;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.container_poza_swiper {
+    width: 100%;
+    height: 100%;
+    padding-left: 0;
+}
+
+/*.swiper-pagination-index{
+    left:18%!important;
+    bottom:3%!important;
+}*/
+.titlu-apartamente {
+    font-size: 30px;
+    color: #343434;
+    text-transform: uppercase;
+    font-family: "BookAntiqua";
+    font-weight: bold;
+}
+
+.cerere_formular {
+    font-size: 15px;
+    padding: 7px 10px;
+    position: initial;
+    bottom: initial;
+    right: initial;
+    margin: 0 auto;
+}
+.form_input_mesaj {font-size:12px;}
+.form_input{font-size:12px;}
+
+
+
+}
+
+
+@media only screen and (max-width: 320px) {
+  .banner_content{display:none;}
+.form_input_mesaj {
+    font-size: 12px;}
+.form_input_mobile {
+    font-size: 12px;}
+.cerere_formular_mobile {
+    font-size: 11px;
+    padding: 9px 19px;
+}
+.text-beneficii {
+    font-size: 13px;
+}
+.titlu-apartamente {
+    font-size: 24px;}
+    .descriere-apartament {
+    font-size: 12px;}
+.buton-afla {
+    font-size: 11px;
+    padding: 5px 8px;
+}
+.buton_index {
+    font-size: 11px;
+    padding: 5px 8px;
+}
+.titlu-prezentare {
+    font-size: 24px;}
+.city-center-river {
+    font-size: 15px;}
+.scris-city-center {
+    font-size: 12px;padding-top: 3px;}
+.swiper-pagination-index {
+    left: 25%!important;
+    bottom: 5%!important;
+}
+.meniu .container_close_menu span {
+    font-size: 13px;
+    cursor: pointer;
+}
+.meniu .meniu_logo_container {
+    width: 134px;
+    height: 96px;
+    margin-bottom: 40px;
+}
+.meniu ul li a {
+    font-size: 14px;
+}
+.meniu_mail {
+    font-size: 14px;
+    font-family: 'OpenSans-Regular';
+    color: #707070;
+}
+.meniu_phone {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-family: 'OpenSans-Regular';
+    color: #707070;
+}
+.vezi-apartamentele {
+    font-size: 15px;}
+    .titlu-galerie {
+    font-size: 24px;
+}
+.text_apartamente {
+    line-height: unset;
+    width: 100%;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+}
+.apartamente_swiper_container a {
+    padding: 5px 10px;}
+.scris-contact {
+    font-size: 13px;}
+    .informatii-contact {
+    font-size: 12px;}
+    .menu .svg {
+    margin: 3px;}
+    .menu .scrismeniu {
+    color: #DDB85E;
+    margin: 1px;
+    font-size: 15px;}
+
+}
